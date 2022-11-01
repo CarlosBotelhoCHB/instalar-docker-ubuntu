@@ -2,8 +2,6 @@
 
 Instalação do Docker no Ubuntu. Verificado no Ubuntu 22.10.
 
-#Como Instalar o Docker no Ubuntu
-
 Docker é uma plataforma capaz de gerenciar processos de aplicativos em containers . Os containers permitem que você execute seus aplicativos de forma isolada com seus recursos.
 
 Neste post vamos mostrar como você poderá instala e usar o Docker Community Edition (CE) no Ubuntu 22.04 e distribuições derivadas.

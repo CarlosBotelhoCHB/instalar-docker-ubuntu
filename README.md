@@ -47,6 +47,7 @@ Para garantir que tudo deu certo vamos verificar se o Docker está em execução
 Por padrão o comando Docker só pode ser executado pelo usuário usando SUDO. Para facilitar o uso, vamos adicionar nosso usuário do sistema ao grupo docker, assim não precisamos usar SUDO e digitar senha as nossa execuções do comando.
 
 ```sudo usermod -aG docker ${USER}```
+<br>
 ```su - ${USER}```
 
 Pronto agora você já pode usar o docker para criar seus containers.
